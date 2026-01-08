@@ -1,0 +1,23 @@
+{
+    "account": {
+        "252050110": "Password1",
+        "252050120": "Password2"
+    },
+    "device": [
+        {
+            "ip": "192.168.1.2",
+            "description": "Computer",
+            "account": "252050110"
+        },
+        {
+            "ip": "192.168.1.3",
+            "description": "Phone",
+            "account": "252050110"
+        },
+        {
+            "ip": "192.168.1.4",
+            "description": "Server",
+            "account": "252050120"
+        }
+    ]
+}
